@@ -1,10 +1,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> origin/login
 =======
 >>>>>>> HomePage
+=======
+>>>>>>> checkout
 @php use Carbon\Carbon; @endphp
 <x-guest-layout>
     <div class="w-full bg-cover bg-center hidden sm:block"
@@ -21,6 +24,7 @@
                                     Products Straight
                                     From the
                                     Local Farmers</h1>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -91,12 +95,15 @@
 >>>>>>> origin/login
 =======
 >>>>>>> HomePage
+=======
+>>>>>>> checkout
                             </div>
                             <button
                                 class="mt-10 w-32 border border-gray-900 bg-[#C6D166] text-white disabled:opacity-50 transition duration-300 hover:enabled:border-slate-300 hover:enabled:bg-slate-200 dark:border-slate-700 dark:bg-slate-800 dark:text-white dark:shadow dark:hover:enabled:border-slate-600 dark:hover:enabled:bg-slate-700 py-2 inline-block px-4 rounded-lg font-medium fade text-sm">
                                 View More
                             </button>
                         </div>
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 
@@ -165,6 +172,8 @@
                     <div class="ml-4 text-center text-sm text-gray-500 sm:text-right sm:ml-0">
                         Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }})
 >>>>>>> origin/ShoppingCart
+=======
+>>>>>>> checkout
                     </div>
                 </div>
             </div>
