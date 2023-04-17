@@ -75,6 +75,7 @@
                                                 <a href="#"
                                                     class="block font-medium text-gray-500 dark:text-gray-300 hover:underline">Sayuran</a>
                                                 <a href="#"
+<<<<<<< HEAD
                                                     class="block font-medium text-blue-600 dark:text-blue-500 hover:underline">Juice</a>
                                                 <a href="#"
                                                     class="block font-medium text-gray-500 dark:text-gray-300 hover:underline">Buah dan Kacang-kacangan</a>
@@ -88,6 +89,23 @@
                                                     class="block font-medium text-gray-500 dark:text-gray-300 hover:underline">Oatmeal</a>
                                                 <a href="#"
                                                     class="block font-medium text-gray-500 dark:text-gray-300 hover:underline">Daging</a>
+=======
+                                                    class="block font-medium text-blue-600 dark:text-blue-500 hover:underline">T-shirts
+                                                    & Vests</a>
+                                                <a href="#"
+                                                    class="block font-medium text-gray-500 dark:text-gray-300 hover:underline">Shirts</a>
+                                                <a href="#"
+                                                    class="block font-medium text-gray-500 dark:text-gray-300 hover:underline">Blazers
+                                                    & Suits</a>
+                                                <a href="#"
+                                                    class="block font-medium text-gray-500 dark:text-gray-300 hover:underline">Jeans</a>
+                                                <a href="#"
+                                                    class="block font-medium text-gray-500 dark:text-gray-300 hover:underline">Trousers</a>
+                                                <a href="#"
+                                                    class="block font-medium text-gray-500 dark:text-gray-300 hover:underline">Shorts</a>
+                                                <a href="#"
+                                                    class="block font-medium text-gray-500 dark:text-gray-300 hover:underline">Underwear</a>
+>>>>>>> origin/ShoppingCart
                                             </div>
                                         </div>
 
