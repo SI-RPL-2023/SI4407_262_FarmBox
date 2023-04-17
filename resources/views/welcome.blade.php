@@ -2,12 +2,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> origin/login
 =======
 >>>>>>> HomePage
 =======
 >>>>>>> checkout
+=======
+>>>>>>> origin/JualProdukPage
 @php use Carbon\Carbon; @endphp
 <x-guest-layout>
     <div class="w-full bg-cover bg-center hidden sm:block"
@@ -27,8 +30,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> HomePage
+=======
+>>>>>>> origin/JualProdukPage
 =======
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
@@ -89,6 +95,7 @@
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
                                     Farmbox test 1 the framework. Whether you are new to the framework or have previous experience with Laravel, we recommend reading all of the documentation from beginning to end.
                                 </div>
+<<<<<<< HEAD
 >>>>>>> origin/Registrasi
 <<<<<<< HEAD
 =======
@@ -97,12 +104,16 @@
 >>>>>>> HomePage
 =======
 >>>>>>> checkout
+=======
+>>>>>>> a853ba243ff4fd4813fcf73c591da932fbe4534e
+>>>>>>> origin/JualProdukPage
                             </div>
                             <button
                                 class="mt-10 w-32 border border-gray-900 bg-[#C6D166] text-white disabled:opacity-50 transition duration-300 hover:enabled:border-slate-300 hover:enabled:bg-slate-200 dark:border-slate-700 dark:bg-slate-800 dark:text-white dark:shadow dark:hover:enabled:border-slate-600 dark:hover:enabled:bg-slate-700 py-2 inline-block px-4 rounded-lg font-medium fade text-sm">
                                 View More
                             </button>
                         </div>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -174,6 +185,8 @@
 >>>>>>> origin/ShoppingCart
 =======
 >>>>>>> checkout
+=======
+>>>>>>> origin/JualProdukPage
                     </div>
                 </div>
             </div>

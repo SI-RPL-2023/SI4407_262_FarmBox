@@ -158,6 +158,7 @@
                                                 class="w-full flex justify-center text-sm sm:text-lg py-4 w-full h-full text-black border border-gray-900  focus:ring-4 focus:outline-none focus:ring-green-300  font-medium rounded-lg px-5 text-center mr-2 mb-2">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                                                 Enter Code
 =======
                                                 Input Code
@@ -165,6 +166,9 @@
 =======
                                                 Enter Code
 >>>>>>> checkout
+=======
+                                                Enter Code
+>>>>>>> origin/JualProdukPage
                                             </a>
                                             <a href="{{ route('shop.index') }}"
                                                 class="w-full flex justify-center text-sm sm:text-lg py-4 w-full h-full text-white bg-gradient-to-r from-[#00FF19] to-[#687858] hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-green-300 dark:focus:ring-green-800 font-medium rounded-lg px-5 text-center mr-2 mb-2">
