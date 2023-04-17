@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/login
 @php use Carbon\Carbon; @endphp
 <x-guest-layout>
     <div class="w-full bg-cover bg-center hidden sm:block"
@@ -15,6 +18,7 @@
                                     Products Straight
                                     From the
                                     Local Farmers</h1>
+<<<<<<< HEAD
 =======
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
@@ -76,6 +80,8 @@
                                     Farmbox test 1 the framework. Whether you are new to the framework or have previous experience with Laravel, we recommend reading all of the documentation from beginning to end.
                                 </div>
 >>>>>>> origin/Registrasi
+=======
+>>>>>>> origin/login
                             </div>
                             <button
                                 class="mt-10 w-32 border border-gray-900 bg-[#C6D166] text-white disabled:opacity-50 transition duration-300 hover:enabled:border-slate-300 hover:enabled:bg-slate-200 dark:border-slate-700 dark:bg-slate-800 dark:text-white dark:shadow dark:hover:enabled:border-slate-600 dark:hover:enabled:bg-slate-700 py-2 inline-block px-4 rounded-lg font-medium fade text-sm">
