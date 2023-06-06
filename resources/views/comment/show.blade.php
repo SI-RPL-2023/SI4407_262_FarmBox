@@ -9,7 +9,7 @@
                             <div class="sm:mt-10 mt-0">
                                 <div class="text-[40px] font-bold flex justify-center items-center ">
                                     <h1 class="text-white ">
-                                    Ulasan Produk
+                                    Ulasan
                                     </h1>
                                 </div>
                             </div>

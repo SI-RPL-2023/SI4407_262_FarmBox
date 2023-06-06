@@ -23,11 +23,12 @@
 		<img src="img/strawberry.jpg" alt="Fresh strawberries on a white background" style="width:1000px; height: 600px;">
 	</div>
     <div style="padding-top:20px ;padding-right:255px;padding-left:255px">
-	<p>"With Halloween creeping up and the weather starting to feel colder we want to inspire you to get a little bit creative in the kitchen this festive period, so we’ve treated you to a round-up of our favourite seasonal recipes from our most-loved foodie bloggers. 
-        We’ve cherry picked a mix of sweet and savoury recipes, that we’re sure will get both adults and kids in the Halloween mood. However, if dressing up and going out trick or treating isn’t your thing, then that’s completely fine with us too, these recipes are just as perfect for a cosy autumnal night in.
-        It wouldn’t be Halloween without a toffee apple. These sticky, gooey, delicious sticks of joy by Indy from The Little Green Spoon are made from coconut sugar, cashew butter and coconut milk. If you’ve got kids then this one is perfect for getting them involved. 
-        Set up a decorating station with all your favourite toppings and be prepared for a little bit of mess. Indy suggests: roasted nuts, cacao nibs, and desiccated coconut to decorate.
-        A Global Web Index survey of internet users aged 16 to 64 found that the average amount of time spent using the web per day is now six hours and 42 minutes. This is a 1.7% decrease year-on-year, down from six hours and forty-nine minutes in January 2020."</p>
+	<p>"Le fragole sono uno dei frutti più amati al mondo. Sono versatili, deliziose e piene di nutrienti. 
+    Dal loro colore rosso brillante alla loro consistenza succosa, le fragole sono una delizia per i sensi. Sono una grande fonte di vitamina C,
+     che aiuta a rafforzare il sistema immunitario e migliorare la salute della pelle. Le fragole contengono anche fibre, potassio e acido folico, 
+     che aiutano a regolare la pressione sanguigna e supportano la salute del cuore. Inoltre, le fragole sono a basso contenuto calorico e ad alto 
+     contenuto di acqua, rendendole uno spuntino ideale per la gestione del peso.Con così tanti benefici per la salute, non c'è da meravigliarsi che le 
+     fragole siano così amate in tutto il mondo. Aggiungi queste deliziose bacche alla tua dieta per godere di un sapore delizioso e di numerosi benefici per la salute!"</p>
 <p style="font-weight: bold; font-size: 24px; padding-top:30px">
 The Corner window forms a place within a place that is a resting point </br>within the large space </p>
 <p style="padding-top:30px">

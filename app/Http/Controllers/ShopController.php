@@ -2,17 +2,43 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Category;
 use App\Models\Product;
+use App\Models\Review;
+use App\Models\Wishlist;
+use Illuminate\Http\Request;
+
+use Auth;
 
 class ShopController extends Controller
 {
     /**
      * Display a listing of the resource.
      */
-    public function index()
+    public function index(Request $request)
     {
+        $wishlist = [];
+        $auth = Auth::user();
+        $products = Product::latest();
+
+        if ($request->has('category')) {
+            $products->where('category_id', $request->get('category'));
+        }
+
+        if ($auth != null) {
+            $wishlist = Wishlist::where('user_id', $auth->id)
+                ->select('product_id')
+                ->get()
+                ->pluck('product_id');
+        }
+
+        $products = $products->paginate(10);
+
+        $categories = Category::where("status", "product")->get();
         return view("shops.index", [
-            "products" => Product::latest()->paginate(10),
+            "products" => $products,
+            "categories" => $categories,
+            "wishlist" => $wishlist
         ]);
     }
 
@@ -21,7 +47,9 @@ class ShopController extends Controller
      */
     public function show(Product $product)
     {
+        $reviews = Review::where('product_id', $product->id)->with('user')->get();
         return view("shops.show", [
+            'reviews' => $reviews,
             "product" => $product,
         ]);
     }

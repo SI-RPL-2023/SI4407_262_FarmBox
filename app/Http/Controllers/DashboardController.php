@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Product;
 use Illuminate\Http\Request;
 
 class DashboardController extends Controller
@@ -11,6 +12,9 @@ class DashboardController extends Controller
      */
     public function __invoke(Request $request)
     {
-        return view("dashboard");
+        $products = Product::latest()->limit(30)->get();
+        return view("dashboard", [
+            'products' => $products
+        ]);
     }
 }
